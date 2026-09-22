@@ -1,4 +1,6 @@
-hangmanSteps = [r'''
+hangmanSteps = [
+  
+r'''
   +---+
   |   |
   O   |
