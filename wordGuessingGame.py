@@ -1,5 +1,5 @@
 import random
-from lists import wordList
+from wordList import wordList
 
 # if user entered guess is one character and alphabet but already guessed
 correctWord = random.choice(wordList)

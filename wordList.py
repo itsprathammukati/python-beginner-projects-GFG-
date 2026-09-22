@@ -1,0 +1,22 @@
+wordList = [
+    "desk",
+    "chair",
+    "blackboard",
+    "chalk",
+    "eraser",
+    "pencil",
+    "notebook",
+    "textbook",
+    "ruler",
+    "backpack",
+    "pen",
+    "sharpener",
+    "compass",
+    "calculator",
+    "projector",
+    "computer",
+    "clock",
+    "globe",
+    "scissors",
+    "whiteboard"
+]
